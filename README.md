@@ -35,7 +35,7 @@ Para este proyecto, se puede utilizar cualquier dataset de mercado de valores, y
 ## Licencia
 Este proyecto se distribuye bajo la licencia MIT.
 
-## 🤝 Contribuciones
+## Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, no dudes en abrir un issue o enviar un pull request.
 
 
