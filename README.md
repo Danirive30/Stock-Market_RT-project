@@ -22,10 +22,7 @@ Este proyecto utiliza las siguientes tecnologías:
 - **Apache Kafka**: para la ingesta de datos en tiempo real
 
 ## 📊 Dataset Utilizado
-Para este proyecto, se puede utilizar cualquier dataset de mercado de valores, ya que el foco está en la construcción de un pipeline de datos en tiempo real. Aquí está el dataset usado como referencia en el tutorial: [indexProcessed.csv](https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv).
-
-## 📺 Tutorial Completo en Video
-Para una guía paso a paso de la implementación de este proyecto, puedes ver el siguiente tutorial: [Video Tutorial](https://www.youtube.com/embed/KerNf0NANMo).
+Para este proyecto, se puede utilizar cualquier dataset de mercado de valores, ya que el foco está en la construcción de un pipeline de datos en tiempo real. Aquí está el dataset usado como referencia en el tutorial: [indexProcessed.csv](https://github.com/Danirive30/Stock-Market_RT-project/blob/main/indexProcessed.csv).
 
 ## 🚀 Cómo Empezar
 1. **Configura Apache Kafka** en una instancia de EC2 para la ingesta de datos.
@@ -36,7 +33,7 @@ Para una guía paso a paso de la implementación de este proyecto, puedes ver el
 6. **Monitorea el pipeline** desde EC2 para asegurar la operación en tiempo real.
 
 ## 📄 Licencia
-Este proyecto se distribuye bajo la licencia MIT. Para más información, consulta el archivo LICENSE en este repositorio.
+Este proyecto se distribuye bajo la licencia MIT.
 
 ## 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, no dudes en abrir un issue o enviar un pull request.
